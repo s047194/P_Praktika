@@ -16,7 +16,7 @@ body.register, body.login .form-container{
     align-items: center;
     height: 80vh;
 }
-body.register. form, body.login form{
+body.register form, body.login form{
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
