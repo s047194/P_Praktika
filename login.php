@@ -52,6 +52,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <input type="submit" value="Login">
     </form>
+            <p class="register-link">
+                Neturite paskyros? <a href="register.php">Registruotis</a>
+            </p>
         </div>
     </div>
 <?php

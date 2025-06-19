@@ -124,6 +124,24 @@ body.login form label{
     font-size: 14px;
     color: #555;
 }
+body.container .register-link {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
+
+body.container .register-link a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+body.container .register-link a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
 /*Register and login*/
 body.login{
     background-color: #e0f7fa;
